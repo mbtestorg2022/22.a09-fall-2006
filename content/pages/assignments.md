@@ -28,17 +28,108 @@ Charge to the Class: Thoughts on the Term Project ([PDF]({{< baseurl >}}/resourc
 
 The 2005 project consisted of two parts: the students' perspectives on emerging directions in biomedical research as presented by guest speakers; and the students' biographical statements. These files are courtesy of the student authors and are used with permission.
 
-| LEC # | PERSPECTIVES ON GUEST SPEAKERS, WRITTEN BY STUDENTS |
-| --- | --- |
-| 2 | Prof. Bevin Engelward (Biological Engineering, MIT), by Cathy Zhang |
-| 3 | Dr. Fred Bowman (HST, MIT-Harvard), by Daon Ha ([PDF]({{< baseurl >}}/resources/lec3)) |
-| 7 | Drs. Maria Mody and Seppo Ahlfors (Martinos Center, HST/MGH), by Monica Crespo ([PDF]({{< baseurl >}}/resources/lec7)) |
-| 8 |  {{< br >}}{{< br >}} Dr. Elizabeth Hillman (Martinos Center, HST/MGH) {{< br >}}{{< br >}} _Note_: As of Fall 2006, [Dr. Hillman](http://orion.bme.columbia.edu/~hillman/Hillman.html) directs Columbia University's [Laboratory for Functional Optical Imaging](http://orion.bme.columbia.edu/~hillman/). {{< br >}}{{< br >}}  |
-| 9 | Prof. Jacquelyn Yanch (Nuclear Science and Engineering, MIT), by Minwah Leung ([PDF]({{< baseurl >}}/resources/lec9)) |
-| 10 | Drs. Ken Kwong and Bruce Jenkins (Martinos Center, HST/MGH), by Xin He ([PDF]({{< baseurl >}}/resources/lec10)) |
-| 11 | Prof. Sidney Yip, by Justin Tan ([PDF]({{< baseurl >}}/resources/sidney_yip_bio)) |
-| 12 | Dr. Mark Fenske (Martinos Center, HST/MGH), by Xin He ([PDF]({{< baseurl >}}/resources/lec12)) |
-| 13 | Dr. Tom Deisboeck (Martinos Center, HST/MGH), by Bruck Assefa ([PDF]({{< baseurl >}}/resources/lec13)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+PERSPECTIVES ON GUEST SPEAKERS, WRITTEN BY STUDENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Bevin Engelward (Biological Engineering, MIT), by Cathy Zhang
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Fred Bowman (HST, MIT-Harvard), by Daon Ha ([PDF]({{< baseurl >}}/resources/lec3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Drs. Maria Mody and Seppo Ahlfors (Martinos Center, HST/MGH), by Monica Crespo ([PDF]({{< baseurl >}}/resources/lec7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dr. Elizabeth Hillman (Martinos Center, HST/MGH)
+
+_Note_: As of Fall 2006, [Dr. Hillman](http://orion.bme.columbia.edu/~hillman/Hillman.html) directs Columbia University's [Laboratory for Functional Optical Imaging](http://orion.bme.columbia.edu/~hillman/).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Jacquelyn Yanch (Nuclear Science and Engineering, MIT), by Minwah Leung ([PDF]({{< baseurl >}}/resources/lec9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Drs. Ken Kwong and Bruce Jenkins (Martinos Center, HST/MGH), by Xin He ([PDF]({{< baseurl >}}/resources/lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sidney Yip, by Justin Tan ([PDF]({{< baseurl >}}/resources/sidney_yip_bio))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Mark Fenske (Martinos Center, HST/MGH), by Xin He ([PDF]({{< baseurl >}}/resources/lec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Tom Deisboeck (Martinos Center, HST/MGH), by Bruck Assefa ([PDF]({{< baseurl >}}/resources/lec13))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students' biographical statements:
 
