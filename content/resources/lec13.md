@@ -4,6 +4,7 @@ description: Perspective on Dr. Tom Deisboeck (Martinos Center, HST/MGH), writte
   by Bruck Assefa.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-a09-career-options-for-biomedical-research-fall-2006/d55c20b0aa648a9343d060d95ca991b0_lec13.pdf
 file_type: application/pdf
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: lec13.pdf
 uid: d55c20b0-aa64-8a93-43d0-60d95ca991b0

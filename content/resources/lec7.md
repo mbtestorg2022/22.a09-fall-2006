@@ -4,6 +4,7 @@ description: Perspectives on Dr. Maria Mody and Dr. Seppo Ahlfors (Martinos Cent
   HST/MGH), written by Monica Crespo.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-a09-career-options-for-biomedical-research-fall-2006/aebfb774d46c8295c133345cadb3f8f3_lec7.pdf
 file_type: application/pdf
+parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
 title: lec7.pdf
 uid: aebfb774-d46c-8295-c133-345cadb3f8f3
